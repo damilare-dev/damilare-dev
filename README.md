@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Junior developer roles or partnership as a front end developer on any project.**
 
-- 👨‍💻 All of my projects are available at [damilare-dev.github.io/portfolio/]([damilare-dev.github.io/portfolio/](https://damilare-dev.github.io/portfolio/))
+- 👨‍💻 All of my projects are available at([https://damilare-dev.github.io/portfolio/](https://damilare-dev.github.io/portfolio/))
 
 - 💬 Ask me about **Javascript, Boostrap, HTML & CSS**
 
