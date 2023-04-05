@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)](damilare-dev.github.io/portfolio/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)](https://damilare-dev.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Damilare</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" height ="300" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Junior developer roles or partnership as a front end developer on any project.**
 
-- 👨‍💻 All of my projects are available at [damilare-dev.github.io/portfolio/](damilare-dev.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [damilare-dev.github.io/portfolio/]([damilare-dev.github.io/portfolio/](https://damilare-dev.github.io/portfolio/))
 
 - 💬 Ask me about **Javascript, Boostrap, HTML & CSS**
 
