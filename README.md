@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/damilareee_" target="blank"><img src="https://img.shields.io/twitter/follow/damilareee_?logo=twitter&style=for-the-badge" alt="damilareee_" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Tailwind CSS, and Nodejs**
+- 🔭 I’m currently working with **React, Boostrap and Javascript on Projects**
+
+- 🌱 I’m currently learning **Reactjs, Tailwind CSS, Firebase, and ContextAPI**
+
+- 👯 I’m looking to collaborate on **Junior developer roles or partnership as a front end developer on any project.**
 
 - 👨‍💻 All of my projects are available at [damilare-dev.github.io/portfolio/](damilare-dev.github.io/portfolio/)
 
 - 💬 Ask me about **Javascript, Boostrap, HTML & CSS**
 
 - 📫 How to reach me **faruqakinkunmi1@gmail.com**
+
+- ⚡ Fun fact **I love watching movies and documentary series alot. I like to listen to music while coding as well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
